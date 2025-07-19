@@ -1,0 +1,152 @@
+[
+  {
+    "image": "https://files.catbox.moe/nl8xpa.jpg",
+    "answer": ["Naruto", "Naruto Uzumaki", "Uzumaki Naruto"],
+    "traits": "male, blonde hair, whisker marks",
+    "tags": "jinchuriki, shadow clone, ramen lover, hokage dream"
+  },
+  {
+    "image": "https://files.catbox.moe/upvl1o.jpg",
+    "answer": ["Sasuke", "Sasuke Uchiha", "Uchiha Sasuke"],
+    "traits": "male, black hair, serious",
+    "tags": "sharingan, lightning style, revenge, rogue ninja"
+  },
+  {
+    "image": "https://files.catbox.moe/xyobut.jpg",
+    "answer": ["Sakura", "Sakura Haruno", "Haruno Sakura"],
+    "traits": "female, pink hair, medical ninja",
+    "tags": "super strength, tsunade student, inner voice"
+  },
+  {
+    "image": "https://files.catbox.moe/i7v4c4.jpg",
+    "answer": ["Kakashi", "Kakashi Hatake", "Hatake Kakashi"],
+    "traits": "male, silver hair, mask on face",
+    "tags": "copy ninja, sharingan, team 7 leader"
+  },
+  {
+    "image": "https://files.catbox.moe/oash31.jpg",
+    "answer": ["Itachi", "Itachi Uchiha", "Uchiha Itachi"],
+    "traits": "male, black hair, red eyes",
+    "tags": "anbu, sharingan, tragic hero"
+  },
+  {
+    "image": "https://files.catbox.moe/lg7uag.jpg",
+    "answer": ["Shikamaru", "Shikamaru Nara", "Nara Shikamaru"],
+    "traits": "male, black hair, lazy",
+    "tags": "shadow possession, strategist, lazy genius"
+  },
+  {
+    "image": "https://files.catbox.moe/cbkf0p.jpg",
+    "answer": ["Hinata", "Hinata Hyuga", "Hyuga Hinata"],
+    "traits": "female, dark blue hair, shy",
+    "tags": "byakugan, gentle fist, kind heart"
+  },
+  {
+    "image": "https://files.catbox.moe/iwqtqi.jpg",
+    "answer": ["Gaara"],
+    "traits": "male, red hair, sand",
+    "tags": "sand control, kazekage, desert ninja"
+  },
+  {
+    "image": "https://files.catbox.moe/jwv094.jpg",
+    "answer": ["Jiraiya"],
+    "traits": "male, white hair, big",
+    "tags": "toad sage, pervy, legendary sannin"
+  },
+  {
+    "image": "https://files.catbox.moe/2xgltn.jpg",
+    "answer": ["Orochimaru"],
+    "traits": "male, pale skin, snake lover",
+    "tags": "forbidden jutsu, immortal, villain"
+  },
+  {
+    "image": "https://files.catbox.moe/ytm09u.jpg",
+    "answer": ["Tsunade"],
+    "traits": "female, blonde hair, strong",
+    "tags": "medical ninja, hokage, super strength"
+  },
+  {
+    "image": "https://files.catbox.moe/9s2gd5.jpg",
+    "answer": ["Rock Lee", "Lee"],
+    "traits": "male, black hair, bowl cut",
+    "tags": "taijutsu, energetic, no ninjutsu"
+  },
+  {
+    "image": "https://files.catbox.moe/qx98jd.jpg",
+    "answer": ["Neji", "Neji Hyuga", "Hyuga Neji"],
+    "traits": "male, black hair, byakugan",
+    "tags": "gentle fist, genius, hyuga clan"
+  },
+  {
+    "image": "https://files.catbox.moe/ozr3g9.jpg",
+    "answer": ["Kiba", "Kiba Inuzuka", "Inuzuka Kiba"],
+    "traits": "male, brown hair, dog companion",
+    "tags": "fangs, akamaru, beast mimicry"
+  },
+  {
+    "image": "https://files.catbox.moe/5tkqk8.jpg",
+    "answer": ["Shino", "Shino Aburame", "Aburame Shino"],
+    "traits": "male, glasses, insects",
+    "tags": "insect user, calm, bug techniques"
+  },
+  {
+    "image": "https://files.catbox.moe/6a848z.jpg",
+    "answer": ["Choji", "Choji Akimichi", "Akimichi Choji"],
+    "traits": "male, chubby, loves food",
+    "tags": "expansion jutsu, kind heart"
+  },
+  {
+    "image": "https://files.catbox.moe/1zxn73.jpg",
+    "answer": ["Tenten"],
+    "traits": "female, black hair, weapon user",
+    "tags": "weapon specialist, ninja tools"
+  },
+  {
+    "image": "https://files.catbox.moe/3duxv9.jpg",
+    "answer": ["Minato", "Minato Namikaze", "Namikaze Minato"],
+    "traits": "male, blonde hair, yellow cloak",
+    "tags": "fourth hokage, flying thunder god"
+  },
+  {
+    "image": "https://files.catbox.moe/ajed2y.jpg",
+    "answer": ["Kurenai", "Kurenai Yuhi", "Yuhi Kurenai"],
+    "traits": "female, black hair, red eyes",
+    "tags": "genjutsu, team leader"
+  },
+  {
+    "image": "https://files.catbox.moe/cs3pe6.jpg",
+    "answer": ["Asuma", "Asuma Sarutobi", "Sarutobi Asuma"],
+    "traits": "male, beard, cigarette",
+    "tags": "chakra blades, jonin"
+  },
+  {
+    "image": "https://files.catbox.moe/pjoxon.jpg",
+    "answer": ["Hidan"],
+    "traits": "male, silver hair, cult member",
+    "tags": "immortal, cursed technique"
+  },
+  {
+    "image": "https://files.catbox.moe/74wteu.jpg",
+    "answer": ["Kakuzu"],
+    "traits": "male, stitched face, mercenary",
+    "tags": "multiple hearts, money lover"
+  },
+  {
+    "image": "https://files.catbox.moe/aex6f8.jpg",
+    "answer": ["Pain", "Nagato", "Pain Nagato"],
+    "traits": "male, orange hair, rinnegan",
+    "tags": "akatsuki leader, rinnegan, god complex"
+  },
+  {
+    "image": "https://files.catbox.moe/km4es1.jpg",
+    "answer": ["Konan"],
+    "traits": "female, blue hair, paper jutsu",
+    "tags": "akatsuki, paper manipulation"
+  },
+  {
+    "image": "https://files.catbox.moe/3x9jzl.jpg",
+    "answer": ["Madara", "Madara Uchiha", "Uchiha Madara"],
+    "traits": "male, long black hair, fierce",
+    "tags": "legendary ninja, sharingan, warlord"
+  }
+]
