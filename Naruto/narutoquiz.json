@@ -148,5 +148,143 @@
     "answer": ["Madara", "Madara Uchiha", "Uchiha Madara"],
     "traits": "male, long black hair, fierce",
     "tags": "legendary ninja, sharingan, warlord"
+  },
+  {
+    "image": "https://files.catbox.moe/stt59e.png",
+    "answer": ["Might Guy", "Guy Sensei", "guy"],
+    "traits": "male, bowl cut, green jumpsuit",
+    "tags": "taijutsu master, youth rival, spirited"
+  },
+  {
+    "image": "https://files.catbox.moe/tzorlz.jpg",
+    "answer": ["Teuchi"],
+    "traits": "male, bald, ramen shop owner",
+    "tags": "Ichiraku Ramen, kind, mentor"
+  },
+  {
+    "image": "https://files.catbox.moe/4uhx8l.jpg",
+    "answer": ["Akamaru"],
+    "traits": "male dog, white fur, ninja companion",
+    "tags": "beast mimicry, loyal, puppy"
+  },
+  {
+    "image": "https://files.catbox.moe/11gx50.jpg",
+    "answer": ["Yamato", "Tenzo"],
+    "traits": "male, short brown hair, wood headband",
+    "tags": "wood style, ANBU, team 7 leader"
+  },
+  {
+    "image": "https://files.catbox.moe/cbsgdy.png",
+    "answer": ["Juugo"],
+    "traits": "male, messy blond hair, unstable",
+    "tags": "curse mark, clan, rage"
+  },
+  {
+    "image": "https://files.catbox.moe/3kvi7b.jpg",
+    "answer": ["Suigetsu Hozuki", "Suigetsu"],
+    "traits": "male, silver-blue hair, shirtless",
+    "tags": "water style, sword collector"
+  },
+  {
+    "image": "https://files.catbox.moe/qyy25u.jpg",
+    "answer": ["Karin", "Karin Uzumaki"],
+    "traits": "female, red hair, glasses",
+    "tags": "sensor ninja, heal with saliva, obsessive"
+  },
+  {
+    "image": "https://files.catbox.moe/1xy40d.jpg",
+    "answer": ["Obito Uchiha", "Tobi", "Obito"],
+    "traits": "male, brown hair, mask",
+    "tags": "sharingan, kamui, akatsuki"
+  },
+  {
+    "image": "https://files.catbox.moe/c4ccus.jpg",
+    "answer": ["Hiruzen Sarutobi", "Hiruzen"],
+    "traits": "male, grey hair, old",
+    "tags": "third hokage, wise, strength of fire"
+  },
+  {
+    "image": "https://files.catbox.moe/w3sv41.jpg",
+    "answer": ["Mei Terumi", "Mei"],
+    "traits": "female, light blue hair, mizukage",
+    "tags": "lava style, boiling style, hidden mist"
+  },
+  {
+    "image": "https://files.catbox.moe/tichx9.png",
+    "answer": ["Ao"],
+    "traits": "male, eyepatch, jonin",
+    "tags": "rinnesharingan, Chunin exam proctor"
+  },
+  {
+    "image": "https://files.catbox.moe/lo7uwn.jpg",
+    "answer": ["Choza Akimichi", "Choza"],
+    "traits": "male, tall, blonde hair",
+    "tags": "Akimichi clan, food jutsu"
+  },
+  {
+    "image": "https://files.catbox.moe/eoszsd.jpg",
+    "answer": ["Udon"],
+    "traits": "male, short hair, round face",
+    "tags": "Ramen shop helper, enthusiast"
+  },
+  {
+    "image": "https://files.catbox.moe/azsp6w.jpg",
+    "answer": ["Shizune"],
+    "traits": "female, black hair, voice box",
+    "tags": "medical ninja, Tsunade assistant"
+  },
+  {
+    "image": "https://files.catbox.moe/aeti1y.jpg",
+    "answer": ["Konohamaru Sarutobi", "Konohamaru"],
+    "traits": "male, short spiky hair, young",
+    "tags": "sannin student, ninja academy"
+  },
+  {
+    "image": "https://files.catbox.moe/7kvoax.jpg",
+    "answer": ["Hashirama Senju", "Hashirama"],
+    "traits": "male, long dark hair, headband",
+    "tags": "first hokage, wood style, founding"
+  },
+  {
+    "image": "https://files.catbox.moe/1qzh2h.jpg",
+    "answer": ["Kaguya Otsutsuki", "Kaguya"],
+    "traits": "female, white hair, horned",
+    "tags": "chakra fruit, origin of chakra"
+  },
+  {
+    "image": "https://files.catbox.moe/o3w9rq.jpg",
+    "answer": ["Momoshiki Otsutsuki", "Momoshiki"],
+    "traits": "male, bowl-shaped hair, horns",
+    "tags": "rinnesharingan, movie villain"
+  },
+  {
+    "image": "https://files.catbox.moe/epwr6t.jpg",
+    "answer": ["Kawaki"],
+    "traits": "male, short hair, tattooed face",
+    "tags": "vessel, K code, future"
+  },
+  {
+    "image": "https://files.catbox.moe/vd4yd9.jpg",
+    "answer": ["Boruto Uzumaki", "Boruto"],
+    "traits": "male, blonde hair, blue eyes",
+    "tags": "Rasengan, karma, next gen"
+  },
+  {
+    "image": "https://files.catbox.moe/8hpme7.jpg",
+    "answer": ["Sarada Uchiha", "Sarada"],
+    "traits": "female, dark hair, glasses",
+    "tags": "sharingan, strong-willed, team 7"
+  },
+  {
+    "image": "https://files.catbox.moe/noiwfh.jpg",
+    "answer": ["Mitsuki"],
+    "traits": "male, white hair, pale",
+    "tags": "sage mode, Orochimaru son"
+  },
+  {
+    "image": "https://files.catbox.moe/bjpkrp.png",
+    "answer": ["Ebisu"],
+    "traits": "male, black hair, glasses",
+    "tags": "genin tutor, elite shinobi"
   }
-]
+  ]
